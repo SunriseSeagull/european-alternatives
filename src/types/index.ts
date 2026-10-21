@@ -160,6 +160,7 @@ export type CategoryId =
   | "virtualization"
   | "design"
   | "video-editing"
+  | "content-creation-tools"
   | "gis"
   | "privacy-tools"
   | "podcasts"

@@ -172,6 +172,10 @@
       "name": "Videoschnitt",
       "description": "Videobearbeitungs- und Postproduktionssoftware"
     },
+    "content-creation-tools": {
+      "name": "Content-Creation-Tools",
+      "description": "Software und Hardware für Livestreams, Videos und interaktive Inhalte"
+    },
     "gis": {
       "name": "GIS & Geodaten",
       "description": "Geoinformationssysteme und räumliche Datenanalyse"

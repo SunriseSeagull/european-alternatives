@@ -43,6 +43,7 @@
     "virtualization": { "name": "Virtualization", "description": "Server virtualization and hypervisor platforms" },
     "design": { "name": "Design & Graphics", "description": "Design, prototyping, and image editing tools" },
     "video-editing": { "name": "Video Editing", "description": "Video editing and post-production software" },
+    "content-creation-tools": { "name": "Content-Creation Tools", "description": "Software and hardware for live streams, videos, and interactive content" },
     "gis": { "name": "GIS & Geospatial", "description": "Geographic information systems and spatial data analysis" },
     "privacy-tools": { "name": "Privacy Tools", "description": "Firewalls, tracker blockers, and privacy-enhancing utilities" },
     "podcasts": { "name": "Podcasts", "description": "Podcast players and hosting platforms" },

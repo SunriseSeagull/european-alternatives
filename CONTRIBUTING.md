@@ -123,6 +123,7 @@ If you're contributing a logo file via PR, make sure:
 | `2fa-authenticator`  | 2FA Authenticators    | Google Authenticator, Microsoft Authenticator, Authy |
 | `ai-ml`              | AI & Machine Learning | OpenAI, Google AI, AWS AI                            |
 | `game-stores`        | Game Stores & Launchers | Steam, Epic Games Store, EA app                    |
+| `content-creation-tools` | Content-Creation Tools | Streamlabs, Elgato, Razer (StreamElements)       |
 | `hosting`            | Cloud & Hosting       | AWS, Google Cloud, Azure, Cloudflare                 |
 | `databases`          | Databases             | Oracle Database, SQL Server, Amazon RDS, Cloud SQL   |
 | `payments`           | Payments              | Stripe, PayPal, Square                               |
